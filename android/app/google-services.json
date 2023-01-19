@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "112171789519",
+    "project_id": "perwah",
+    "storage_bucket": "perwah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112171789519:android:98753c2d57848eb72b9bba",
+        "android_client_info": {
+          "package_name": "com.intileo.perwha.perwha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112171789519-brqc42q6l256p24r5annj2ob3649qjve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.intileo.perwha.perwha",
+            "certificate_hash": "ef33b7c4e631751d82e1131e54f512d283082d5a"
+          }
+        },
+        {
+          "client_id": "112171789519-0tairbrv73026ma2ia8516523ks850kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3wFBo24pAPi-6QlNloHKlzm7WGdMA6Ac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112171789519-0tairbrv73026ma2ia8516523ks850kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
